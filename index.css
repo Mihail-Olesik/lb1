@@ -126,3 +126,36 @@ img.imgGIT:hover {
 img.imgNET{
 	height:185px;
 }
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 2px dotted black;
+}
+
+td.Firm{
+	background-color:green;
+	color:cyan;
+}
+
+td.Products{
+	background-color:yellow;
+	color:red;
+}
+
+td.Notif{
+	background-color:black;
+	color:yellow;
+}
+
+td.Start{
+	background-color:red;
+	color:white;
+}
+
+td.End{
+	background-color:green;
+	color:red;
+}
