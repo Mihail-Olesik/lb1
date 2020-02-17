@@ -99,3 +99,14 @@ a.fourthLink:link, a.fourthLink:visited {
 a.fourthLink:hover, a.fourthLink:active {
     background-color: black;
 }
+
+ol.numeric{
+	color:red;
+}
+
+ul.dotted{
+	list-style-type:square;
+	border-style: dotted;
+	background-color:white;
+}
+
