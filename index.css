@@ -45,3 +45,57 @@ p.four {
     border-style: groove;
     border-width: 2px 10px 4px 20px;
 } 
+
+p.oneText {
+	
+}
+
+
+a.oneLink:link, a.oneLink:visited {
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.oneLink:hover, a.oneLink:active {
+    background-color: red;
+}
+
+a.secondLink:link, a.secondLink:visited {
+    background-color: #f09980;
+    color: black;
+    padding: 14px 25px;
+	border-style: dotted;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.secondLink:hover, a.secondLink:active {
+    background-color: orange;
+}
+
+a.thirdLink:link, a.thirdLink:visited {
+    color: green;
+}
+
+a.thirdLink:hover, a.thirdLink:active {
+    background-color: yellow;
+}
+
+a.fourthLink:link, a.fourthLink:visited {
+    background-color: grey;
+    color: white;
+    padding: 14px 25px;
+	border-style: groove;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.fourthLink:hover, a.fourthLink:active {
+    background-color: black;
+}
