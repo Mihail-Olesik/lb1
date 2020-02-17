@@ -110,3 +110,19 @@ ul.dotted{
 	background-color:white;
 }
 
+img.imgGIT{
+	width:304px;
+    background-color: #ffffff;
+    border: 8px dotted black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+
+img.imgGIT:hover {
+   	border: 8px dotted black;
+    opacity: 1;
+}
+
+img.imgNET{
+	height:185px;
+}
