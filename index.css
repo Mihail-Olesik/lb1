@@ -1,0 +1,25 @@
+body{
+	background-color: lightgrey;
+}
+h1 {
+    text-align: center;
+    color: red;
+	font-size: 40px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h2.one {
+    text-align: left;
+    color: red;
+	font-style: italic;
+	font-family: "Courier", Courier, monospace;
+	background-color:white;
+}
+
+h2.two {
+    text-align: left;
+    color: white;
+	font-style: italic;
+	font-family: "Courier", Courier, monospace;
+	background-color: red;
+}
